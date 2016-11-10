@@ -225,7 +225,7 @@
 				TargetAttributes = {
 					1C9BFB831DC8650D0090B52D = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 6VQT7QJ3A6;
+						DevelopmentTeam = LXU7268T7F;
 						ProvisioningStyle = Automatic;
 					};
 					1C9BFB9C1DC8650D0090B52D = {
@@ -447,9 +447,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6VQT7QJ3A6;
+				DEVELOPMENT_TEAM = LXU7268T7F;
 				INFOPLIST_FILE = easyWeiBo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "lihonggui1988.com.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -461,9 +461,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6VQT7QJ3A6;
+				DEVELOPMENT_TEAM = LXU7268T7F;
 				INFOPLIST_FILE = easyWeiBo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "lihonggui1988.com.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
